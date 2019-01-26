@@ -1,177 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d2dab505-5324-4f0c-ad52-7ce4b039d2ff" name="Default" comment="Performed Saturday 26 January">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/Open.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/Save.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/Launcher.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/org/jetoff/controller/Controller.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/org/jetoff/gui/InformationTabs.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/org/jetoff/gui/JeezGetFile.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/org/jetoff/gui/MainWindow$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/org/jetoff/gui/MainWindow$2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/org/jetoff/gui/MainWindow$3.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/org/jetoff/gui/MainWindow$4.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/org/jetoff/gui/MainWindow$5.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/org/jetoff/gui/MainWindow$LAYOUT.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/org/jetoff/gui/MainWindow.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/org/jetoff/gui/package-info.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/org/jetoff/modeler/TreeDatas.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/org/jetoff/modeler/TreeFrame.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/org/jetoff/modeler/package-info.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Pitch It Dude/B.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Pitch It Dude/C.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Pitch It Dude/Launcher$E.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Pitch It Dude/Launcher.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Pitch It Dude/Test$NumericFunc.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Pitch It Dude/Test.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Pitch It Dude/com/jetoff/applets/tipTop$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Pitch It Dude/com/jetoff/applets/tipTop.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Pitch It Dude/com/jetoff/config/Parameter$items.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Pitch It Dude/com/jetoff/config/Parameter.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Pitch It Dude/com/jetoff/gui/ItemAction.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Pitch It Dude/com/jetoff/gui/JeezGetFile.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Pitch It Dude/com/jetoff/gui/JetSetter.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Pitch It Dude/com/jetoff/gui/MainWindow$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Pitch It Dude/com/jetoff/gui/MainWindow$2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Pitch It Dude/com/jetoff/gui/MainWindow$LAYOUT.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Pitch It Dude/com/jetoff/gui/MainWindow.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Pitch It Dude/com/jetoff/gui/Sudoku$Block.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Pitch It Dude/com/jetoff/gui/Sudoku$BlockModel.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Pitch It Dude/com/jetoff/gui/Sudoku$Counter.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Pitch It Dude/com/jetoff/gui/Sudoku$GridEditor.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Pitch It Dude/com/jetoff/gui/Sudoku$GridRenderer.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Pitch It Dude/com/jetoff/gui/Sudoku.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Pitch It Dude/com/jetoff/gui/SudokuGUI$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Pitch It Dude/com/jetoff/gui/SudokuGUI.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Pitch It Dude/com/jetoff/gui/TreeFrame.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Pitch It Dude/com/jetoff/learning/Tree.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Pitch It Dude/com/jetoff/learning/_SearchTree$Cell.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Pitch It Dude/com/jetoff/learning/_SearchTree$Node.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Pitch It Dude/com/jetoff/learning/_SearchTree$Tree.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Pitch It Dude/com/jetoff/learning/_SearchTree$_DecisionSpace.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Pitch It Dude/com/jetoff/learning/_SearchTree$_SolutionSpace.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Pitch It Dude/com/jetoff/learning/_SearchTree$_Space.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Pitch It Dude/com/jetoff/learning/_SearchTree$zzTop.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Pitch It Dude/com/jetoff/learning/_SearchTree.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Pitch It Dude/com/jetoff/logging/Config.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Pitch It Dude/com/jetoff/logging/Monitor.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Pitch It Dude/com/jetoff/logging/Tracker.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Pitch It Dude/com/jetoff/logic/Generator.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Pitch It Dude/com/jetoff/logic/Individual$Gender.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Pitch It Dude/com/jetoff/logic/Individual.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Pitch It Dude/com/jetoff/logic/SudokuSolver.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Pitch It Dude/com/jetoff/logic/TreeBuilder$RootedFiles.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Pitch It Dude/com/jetoff/logic/TreeBuilder.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Pitch It Dude/com/jetoff/logic/_Generator.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Pitch It Dude/com/jetoff/network/FullStackAtom$NetworkStack.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Pitch It Dude/com/jetoff/network/FullStackAtom.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Pitch It Dude/com/jetoff/network/NetworkAtom.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Pitch It Dude/com/jetoff/tools/Clock.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Pitch It Dude/com/jetoff/tools/FileHandler$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Pitch It Dude/com/jetoff/tools/FileHandler$Operate.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Pitch It Dude/com/jetoff/tools/FileHandler.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Pitch It Dude/com/jetoff/web/BookingNotify.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Pitch It Dude/com/jetoff/web/ChatEncoder.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Pitch It Dude/com/jetoff/web/Transcript.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Pitch It Dude/com/jetoff/web/WebSoc.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Pitch It Dude/components/SplitPaneDemo$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Pitch It Dude/components/SplitPaneDemo.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PitchIt/Launcher.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PitchIt/com/jetoff/config/Parameters$items.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PitchIt/com/jetoff/config/Parameters.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PitchIt/com/jetoff/gui/ItemAction.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PitchIt/com/jetoff/gui/JetSetter.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PitchIt/com/jetoff/gui/MainWindow$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PitchIt/com/jetoff/gui/MainWindow$2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PitchIt/com/jetoff/gui/MainWindow$LAYOUT.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PitchIt/com/jetoff/gui/MainWindow.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PitchIt/com/jetoff/gui/Sudoku$Block.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PitchIt/com/jetoff/gui/Sudoku$BlockModel.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PitchIt/com/jetoff/gui/Sudoku$Counter.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PitchIt/com/jetoff/gui/Sudoku$GridEditor.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PitchIt/com/jetoff/gui/Sudoku$GridRenderer.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PitchIt/com/jetoff/gui/Sudoku.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PitchIt/com/jetoff/gui/SudokuGUI$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PitchIt/com/jetoff/gui/SudokuGUI$Commands.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PitchIt/com/jetoff/gui/SudokuGUI.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PitchIt/com/jetoff/gui/TreeFrame.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PitchIt/com/jetoff/learning/Tree.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PitchIt/com/jetoff/learning/_SearchTree$Cell.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PitchIt/com/jetoff/learning/_SearchTree$Node.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PitchIt/com/jetoff/learning/_SearchTree$Tree.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PitchIt/com/jetoff/learning/_SearchTree$_DecisionSpace.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PitchIt/com/jetoff/learning/_SearchTree$_Functor.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PitchIt/com/jetoff/learning/_SearchTree$_SolutionSpace.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PitchIt/com/jetoff/learning/_SearchTree$_Space.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PitchIt/com/jetoff/learning/_SearchTree$zzTop.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PitchIt/com/jetoff/learning/_SearchTree.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PitchIt/com/jetoff/logging/Config.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PitchIt/com/jetoff/logging/Monitor.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PitchIt/com/jetoff/logging/Tracker.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PitchIt/com/jetoff/logic/Individual$Gender.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PitchIt/com/jetoff/logic/Individual.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PitchIt/com/jetoff/logic/PuzzleProvider$DigitProvider.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PitchIt/com/jetoff/logic/PuzzleProvider.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PitchIt/com/jetoff/logic/SudokuGraph$Vertex.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PitchIt/com/jetoff/logic/SudokuGraph.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PitchIt/com/jetoff/logic/TreeBuilder$RootedFiles.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PitchIt/com/jetoff/logic/TreeBuilder.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PitchIt/com/jetoff/network/FullStackAtom$NetworkStack.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PitchIt/com/jetoff/network/FullStackAtom.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PitchIt/com/jetoff/network/NetworkAtom.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PitchIt/com/jetoff/tools/Clock.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PitchIt/com/jetoff/tools/FileHandler$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PitchIt/com/jetoff/tools/FileHandler$Operate.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PitchIt/com/jetoff/tools/FileHandler.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PitchIt/com/jetoff/web/BookingNotify.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PitchIt/com/jetoff/web/ChatEncoder.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PitchIt/com/jetoff/web/Transcript.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PitchIt/com/jetoff/web/WebSoc.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/codeStyleSettings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/Alain.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PitchIt.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Pitch It Dude/com/jetoff/gui/jetlinks.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Pitch It Dude/com/jetoff/tools/smart.fxml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Pitch It Dude/groovit.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Pitch It Dude/guldgow.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PitchIt/com/jetoff/gui/jetlinks.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PitchIt/com/jetoff/tools/smart.fxml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Launcher.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/jetoff/config/Parameters.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/jetoff/gui/ItemAction.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/jetoff/gui/JetSetter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/jetoff/gui/MainWindow.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/jetoff/gui/Sudoku.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/jetoff/gui/SudokuGUI.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/jetoff/gui/TreeFrame.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/jetoff/gui/jetlinks.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/jetoff/gui/package-info.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/jetoff/learning/Tree.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/jetoff/learning/_SearchTree.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/jetoff/logging/Config.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/jetoff/logging/Monitor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/jetoff/logging/Tracker.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/jetoff/logic/Individual.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/jetoff/logic/PuzzleProvider.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/jetoff/logic/SudokuGraph.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/jetoff/logic/TreeBuilder.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/jetoff/logic/package-info.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/jetoff/network/networkatom.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/jetoff/tools/Clock.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/jetoff/tools/FileHandler.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/jetoff/web/BookingNotify.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/jetoff/web/ChatEncoder.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/jetoff/web/Transcript.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/jetoff/web/WebSoc.java" />
+    <list default="true" id="d2dab505-5324-4f0c-ad52-7ce4b039d2ff" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -898,6 +729,14 @@
       <option name="presentableId" value="Default" />
       <updated>1493115560613</updated>
     </task>
+    <task id="LOCAL-00001" summary="Performed Saturday 26 January">
+      <created>1548518038974</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1548518038974</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TodoView">
@@ -911,15 +750,16 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="112" y="4" width="1800" height="1017" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3237858" sideWeight="0.49576783" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2809816" sideWeight="0.51862633" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2809816" sideWeight="0.52088165" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27239263" sideWeight="0.47242206" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27239263" sideWeight="0.47911832" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32853717" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32962963" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27239263" sideWeight="0.52757794" order="2" side_tool="false" content_ui="tabs" x="189" y="118" width="1707" height="991" />
@@ -927,7 +767,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32429245" sideWeight="0.49758163" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30046403" sideWeight="0.48518518" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30046403" sideWeight="0.48518518" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Problems" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29447854" sideWeight="0.48741007" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30220416" sideWeight="0.4842474" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2491269" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1292,14 +1132,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jetoff/learning/_SearchTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="185" column="39" lean-forward="true" selection-start-line="185" selection-start-column="39" selection-end-line="185" selection-end-column="39" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/jetoff/tools/smart.fxml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="250">
@@ -1309,6 +1141,14 @@
       </provider>
       <provider editor-type-id="JavaFX-Scene-Builder">
         <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/jetoff/learning/_SearchTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="185" column="39" lean-forward="true" selection-start-line="185" selection-start-column="39" selection-end-line="185" selection-end-column="39" />
+          <folding />
+        </state>
       </provider>
     </entry>
   </component>
