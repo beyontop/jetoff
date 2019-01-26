@@ -1,0 +1,1414 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d2dab505-5324-4f0c-ad52-7ce4b039d2ff" name="Default" comment="Performed Saturday 26 January">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/Open.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/Save.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/Launcher.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/org/jetoff/controller/Controller.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/org/jetoff/gui/InformationTabs.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/org/jetoff/gui/JeezGetFile.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/org/jetoff/gui/MainWindow$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/org/jetoff/gui/MainWindow$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/org/jetoff/gui/MainWindow$3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/org/jetoff/gui/MainWindow$4.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/org/jetoff/gui/MainWindow$5.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/org/jetoff/gui/MainWindow$LAYOUT.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/org/jetoff/gui/MainWindow.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/org/jetoff/gui/package-info.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/org/jetoff/modeler/TreeDatas.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/org/jetoff/modeler/TreeFrame.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/org/jetoff/modeler/package-info.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Pitch It Dude/B.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Pitch It Dude/C.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Pitch It Dude/Launcher$E.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Pitch It Dude/Launcher.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Pitch It Dude/Test$NumericFunc.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Pitch It Dude/Test.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Pitch It Dude/com/jetoff/applets/tipTop$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Pitch It Dude/com/jetoff/applets/tipTop.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Pitch It Dude/com/jetoff/config/Parameter$items.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Pitch It Dude/com/jetoff/config/Parameter.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Pitch It Dude/com/jetoff/gui/ItemAction.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Pitch It Dude/com/jetoff/gui/JeezGetFile.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Pitch It Dude/com/jetoff/gui/JetSetter.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Pitch It Dude/com/jetoff/gui/MainWindow$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Pitch It Dude/com/jetoff/gui/MainWindow$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Pitch It Dude/com/jetoff/gui/MainWindow$LAYOUT.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Pitch It Dude/com/jetoff/gui/MainWindow.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Pitch It Dude/com/jetoff/gui/Sudoku$Block.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Pitch It Dude/com/jetoff/gui/Sudoku$BlockModel.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Pitch It Dude/com/jetoff/gui/Sudoku$Counter.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Pitch It Dude/com/jetoff/gui/Sudoku$GridEditor.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Pitch It Dude/com/jetoff/gui/Sudoku$GridRenderer.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Pitch It Dude/com/jetoff/gui/Sudoku.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Pitch It Dude/com/jetoff/gui/SudokuGUI$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Pitch It Dude/com/jetoff/gui/SudokuGUI.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Pitch It Dude/com/jetoff/gui/TreeFrame.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Pitch It Dude/com/jetoff/learning/Tree.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Pitch It Dude/com/jetoff/learning/_SearchTree$Cell.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Pitch It Dude/com/jetoff/learning/_SearchTree$Node.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Pitch It Dude/com/jetoff/learning/_SearchTree$Tree.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Pitch It Dude/com/jetoff/learning/_SearchTree$_DecisionSpace.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Pitch It Dude/com/jetoff/learning/_SearchTree$_SolutionSpace.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Pitch It Dude/com/jetoff/learning/_SearchTree$_Space.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Pitch It Dude/com/jetoff/learning/_SearchTree$zzTop.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Pitch It Dude/com/jetoff/learning/_SearchTree.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Pitch It Dude/com/jetoff/logging/Config.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Pitch It Dude/com/jetoff/logging/Monitor.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Pitch It Dude/com/jetoff/logging/Tracker.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Pitch It Dude/com/jetoff/logic/Generator.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Pitch It Dude/com/jetoff/logic/Individual$Gender.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Pitch It Dude/com/jetoff/logic/Individual.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Pitch It Dude/com/jetoff/logic/SudokuSolver.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Pitch It Dude/com/jetoff/logic/TreeBuilder$RootedFiles.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Pitch It Dude/com/jetoff/logic/TreeBuilder.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Pitch It Dude/com/jetoff/logic/_Generator.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Pitch It Dude/com/jetoff/network/FullStackAtom$NetworkStack.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Pitch It Dude/com/jetoff/network/FullStackAtom.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Pitch It Dude/com/jetoff/network/NetworkAtom.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Pitch It Dude/com/jetoff/tools/Clock.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Pitch It Dude/com/jetoff/tools/FileHandler$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Pitch It Dude/com/jetoff/tools/FileHandler$Operate.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Pitch It Dude/com/jetoff/tools/FileHandler.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Pitch It Dude/com/jetoff/web/BookingNotify.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Pitch It Dude/com/jetoff/web/ChatEncoder.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Pitch It Dude/com/jetoff/web/Transcript.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Pitch It Dude/com/jetoff/web/WebSoc.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Pitch It Dude/components/SplitPaneDemo$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Pitch It Dude/components/SplitPaneDemo.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PitchIt/Launcher.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PitchIt/com/jetoff/config/Parameters$items.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PitchIt/com/jetoff/config/Parameters.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PitchIt/com/jetoff/gui/ItemAction.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PitchIt/com/jetoff/gui/JetSetter.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PitchIt/com/jetoff/gui/MainWindow$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PitchIt/com/jetoff/gui/MainWindow$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PitchIt/com/jetoff/gui/MainWindow$LAYOUT.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PitchIt/com/jetoff/gui/MainWindow.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PitchIt/com/jetoff/gui/Sudoku$Block.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PitchIt/com/jetoff/gui/Sudoku$BlockModel.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PitchIt/com/jetoff/gui/Sudoku$Counter.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PitchIt/com/jetoff/gui/Sudoku$GridEditor.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PitchIt/com/jetoff/gui/Sudoku$GridRenderer.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PitchIt/com/jetoff/gui/Sudoku.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PitchIt/com/jetoff/gui/SudokuGUI$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PitchIt/com/jetoff/gui/SudokuGUI$Commands.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PitchIt/com/jetoff/gui/SudokuGUI.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PitchIt/com/jetoff/gui/TreeFrame.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PitchIt/com/jetoff/learning/Tree.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PitchIt/com/jetoff/learning/_SearchTree$Cell.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PitchIt/com/jetoff/learning/_SearchTree$Node.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PitchIt/com/jetoff/learning/_SearchTree$Tree.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PitchIt/com/jetoff/learning/_SearchTree$_DecisionSpace.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PitchIt/com/jetoff/learning/_SearchTree$_Functor.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PitchIt/com/jetoff/learning/_SearchTree$_SolutionSpace.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PitchIt/com/jetoff/learning/_SearchTree$_Space.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PitchIt/com/jetoff/learning/_SearchTree$zzTop.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PitchIt/com/jetoff/learning/_SearchTree.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PitchIt/com/jetoff/logging/Config.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PitchIt/com/jetoff/logging/Monitor.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PitchIt/com/jetoff/logging/Tracker.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PitchIt/com/jetoff/logic/Individual$Gender.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PitchIt/com/jetoff/logic/Individual.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PitchIt/com/jetoff/logic/PuzzleProvider$DigitProvider.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PitchIt/com/jetoff/logic/PuzzleProvider.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PitchIt/com/jetoff/logic/SudokuGraph$Vertex.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PitchIt/com/jetoff/logic/SudokuGraph.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PitchIt/com/jetoff/logic/TreeBuilder$RootedFiles.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PitchIt/com/jetoff/logic/TreeBuilder.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PitchIt/com/jetoff/network/FullStackAtom$NetworkStack.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PitchIt/com/jetoff/network/FullStackAtom.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PitchIt/com/jetoff/network/NetworkAtom.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PitchIt/com/jetoff/tools/Clock.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PitchIt/com/jetoff/tools/FileHandler$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PitchIt/com/jetoff/tools/FileHandler$Operate.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PitchIt/com/jetoff/tools/FileHandler.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PitchIt/com/jetoff/web/BookingNotify.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PitchIt/com/jetoff/web/ChatEncoder.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PitchIt/com/jetoff/web/Transcript.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PitchIt/com/jetoff/web/WebSoc.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/codeStyleSettings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/Alain.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PitchIt.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Pitch It Dude/com/jetoff/gui/jetlinks.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Pitch It Dude/com/jetoff/tools/smart.fxml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Pitch It Dude/groovit.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Pitch It Dude/guldgow.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PitchIt/com/jetoff/gui/jetlinks.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PitchIt/com/jetoff/tools/smart.fxml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Launcher.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/jetoff/config/Parameters.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/jetoff/gui/ItemAction.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/jetoff/gui/JetSetter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/jetoff/gui/MainWindow.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/jetoff/gui/Sudoku.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/jetoff/gui/SudokuGUI.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/jetoff/gui/TreeFrame.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/jetoff/gui/jetlinks.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/jetoff/gui/package-info.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/jetoff/learning/Tree.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/jetoff/learning/_SearchTree.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/jetoff/logging/Config.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/jetoff/logging/Monitor.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/jetoff/logging/Tracker.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/jetoff/logic/Individual.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/jetoff/logic/PuzzleProvider.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/jetoff/logic/SudokuGraph.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/jetoff/logic/TreeBuilder.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/jetoff/logic/package-info.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/jetoff/network/networkatom.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/jetoff/tools/Clock.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/jetoff/tools/FileHandler.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/jetoff/web/BookingNotify.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/jetoff/web/ChatEncoder.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/jetoff/web/Transcript.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/jetoff/web/WebSoc.java" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+    <option name="PARALLEL_COMPILATION" value="true" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/jetoff$Launcher.coverage" NAME="Launcher Coverage Results" MODIFIED="1508242407532" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="jetoff" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="SudokuGUI.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/jetoff/gui/SudokuGUI.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="29925">
+              <caret line="1224" column="10" lean-forward="false" selection-start-line="1224" selection-start-column="10" selection-end-line="1224" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_SearchTree.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/jetoff/learning/_SearchTree.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="324">
+              <caret line="185" column="39" lean-forward="true" selection-start-line="185" selection-start-column="39" selection-end-line="185" selection-end-column="39" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="HTML File" />
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>PRESENT</find>
+      <find>elected</find>
+      <find>SmallestDomain</find>
+      <find>VALUE_FOUND</find>
+      <find>domain.size</find>
+      <find>domain</find>
+      <find>VALUE_AVAILABLE</find>
+      <find>ASSIGNMENT_SUCEEDED</find>
+      <find>getDomainItem</find>
+      <find>items</find>
+      <find>addNodeToTree</find>
+      <find>parent</find>
+      <find>child</find>
+      <find>spaceDim</find>
+      <find>config</find>
+      <find>resultsPane</find>
+      <find>okBtn</find>
+      <find>cancel_Btn</find>
+      <find>autoM</find>
+      <find>shapePanel</find>
+      <find>aboutWindow</find>
+      <find>grid</find>
+      <find>gridView</find>
+      <find>puzzleView.add( gridView )</find>
+      <find>Do I</find>
+      <find>Matrix</find>
+      <find>fillAdjacency</find>
+      <find>getWindow</find>
+      <find>puzzleView</find>
+      <find>trialCells</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>isAllowed</replace>
+      <replace>initSet</replace>
+      <replace>panelBtn</replace>
+      <replace>beep</replace>
+      <replace>inProcess</replace>
+      <replace>sttingInProcess</replace>
+      <replace>settingInProcess</replace>
+      <replace>forwardBtn</replace>
+      <replace>setStandardPuzzle</replace>
+      <replace>save_Btn</replace>
+      <replace>return_Btn</replace>
+      <replace>LoadGameButton</replace>
+      <replace>cells</replace>
+      <replace>getCellMinDomain</replace>
+      <replace>getCellWithSmallestDomain</replace>
+      <replace>electedCell</replace>
+      <replace>BestCell</replace>
+      <replace>VALUE_AVAILABLE</replace>
+      <replace>cellDomain</replace>
+      <replace>ASSIGNMENT_SUCEEDED</replace>
+      <replace>ASSIGNMENT_SUCCEEDED</replace>
+      <replace>getDomainItems</replace>
+      <replace>CellDomain</replace>
+      <replace>addToTree</replace>
+      <replace>parentNode</replace>
+      <replace>childNode</replace>
+      <replace>spaceDimension</replace>
+      <replace>results</replace>
+      <replace>Adjacency</replace>
+      <replace>fillAdjacencyMatrix</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="HierarchyBrowserManager">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="true" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/jetoff/gui/Editor.java" />
+        <option value="$PROJECT_DIR$/src/com/jetoff/gui/ColorRenderer.java" />
+        <option value="$PROJECT_DIR$/src/guldgow.html" />
+        <option value="$PROJECT_DIR$/src/com/jetoff/applets/SkeletoN.java" />
+        <option value="$USER_HOME$/Desktop/Projets/dodgy.html" />
+        <option value="$PROJECT_DIR$/src/com/jetoff/gui/TableDialogEditDemo.java" />
+        <option value="$PROJECT_DIR$/src/com/jetoff/gui/ColorEditor.java" />
+        <option value="$PROJECT_DIR$/src/com/jetoff/applets/tipTop.java" />
+        <option value="$USER_HOME$/Desktop/Projets/crunchit.html" />
+        <option value="$USER_HOME$/Desktop/Projets/Files/css/crunchit.css" />
+        <option value="$PROJECT_DIR$/src/com/jetoff/web/ChatEncoder.java" />
+        <option value="$PROJECT_DIR$/src/com/jetoff/web/Transcript.java" />
+        <option value="$PROJECT_DIR$/src/com/jetoff/gui/ginfizz.html" />
+        <option value="$PROJECT_DIR$/src/com/jetoff/logic/NumericGrid.java" />
+        <option value="$PROJECT_DIR$/src/com/jetoff/gui/MainWindow.java" />
+        <option value="$PROJECT_DIR$/src/com/jetoff/web/WebSoc.java" />
+        <option value="$PROJECT_DIR$/src/com/jetoff/gui/JetSetter.java" />
+        <option value="$PROJECT_DIR$/src/com/jetoff/tools/groovit.html" />
+        <option value="$PROJECT_DIR$/src/com/jetoff/logic/SudokuSolver.java" />
+        <option value="$PROJECT_DIR$/src/com/jetoff/ai/base/Action.java" />
+        <option value="$PROJECT_DIR$/src/com/jetoff/ai/base/Agent.java" />
+        <option value="$PROJECT_DIR$/src/com/jetoff/tools/Config.java" />
+        <option value="$PROJECT_DIR$/src/com/jetoff/tools/Clock.java" />
+        <option value="$PROJECT_DIR$/src/com/jetoff/logic/GridGenerator.java" />
+        <option value="$PROJECT_DIR$/src/com/jetoff/learning/Obervation.java" />
+        <option value="$PROJECT_DIR$/src/com/jetoff/learning/Observation.java" />
+        <option value="$PROJECT_DIR$/src/com/jetoff/learning/Reward.java" />
+        <option value="$PROJECT_DIR$/src/com/jetoff/learning/State.java" />
+        <option value="$PROJECT_DIR$/src/com/jetoff/learning/Action.java" />
+        <option value="$PROJECT_DIR$/src/com/jetoff/learning/RLSystem.java" />
+        <option value="C:/Apache Tomcat/apache-tomcat-9.0.0.M10/conf/web.xml" />
+        <option value="C:/Apache Tomcat/apache-tomcat-9.0.0.M10/conf/server.xml" />
+        <option value="$PROJECT_DIR$/src/com/jetoff/learning/Agent.java" />
+        <option value="$PROJECT_DIR$/src/com/jetoff/logging/Config.java" />
+        <option value="$PROJECT_DIR$/src/com/jetoff/logging/TreeSearch.java" />
+        <option value="$PROJECT_DIR$/src/com/jetoff/learning/Tree.java" />
+        <option value="$PROJECT_DIR$/src/com/jetoff/learning/TreeSearch.java" />
+        <option value="$PROJECT_DIR$/src/com/jetoff/learning/SearchTree.java" />
+        <option value="$PROJECT_DIR$/src/com/jetoff/tools/smart.fxml" />
+        <option value="$PROJECT_DIR$/src/com/jetoff/tools/FileHandler.java" />
+        <option value="$PROJECT_DIR$/src/com/jetoff/logic/_Generator.java" />
+        <option value="$PROJECT_DIR$/.idea/workspace.xml" />
+        <option value="$PROJECT_DIR$/src/Launcher.java" />
+        <option value="$PROJECT_DIR$/src/com/jetoff/logic/Generator.java" />
+        <option value="$PROJECT_DIR$/src/com/jetoff/logic/PuzzleGenerator.java" />
+        <option value="$PROJECT_DIR$/src/com/jetoff/logic/Graph.java" />
+        <option value="$PROJECT_DIR$/src/com/jetoff/logic/SudokuGraph.java" />
+        <option value="$PROJECT_DIR$/src/com/jetoff/logic/PuzzleProvider.java" />
+        <option value="$PROJECT_DIR$/src/com/jetoff/gui/Sudoku.java" />
+        <option value="$PROJECT_DIR$/src/com/jetoff/gui/SudokuGUI.java" />
+        <option value="$PROJECT_DIR$/src/com/jetoff/learning/_SearchTree.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="112" />
+    <option name="y" value="4" />
+    <option name="width" value="1800" />
+    <option name="height" value="1017" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Android</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages PackagesPane="false" />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jetoff" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Pitch It Dude" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jetoff" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Pitch It Dude" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jetoff" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Pitch It Dude" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tools" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="last_opened_file_path" value="C:/Apache Tomcat/apache-tomcat-9.0.0.M10/conf/web.xml" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="Downloaded.Files.Path.Enabled" value="true" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="org.jetoff.gui" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name=".SudokuGUI" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Alain\workspace\Pitch It Dude\src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Launcher">
+    <configuration default="false" name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Pitch It Dude" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="TLC" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="TLC" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Pitch It Dude" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="TableDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="TableDemo" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Pitch It Dude" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="TableDialogEditDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.jetoff.gui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.jetoff.gui.TableDialogEditDemo" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Pitch It Dude" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Launcher" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="Launcher" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="C:\Program Files\Java\jdk1.8.0_101\jre" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="PitchIt" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="BashConfigurationType" factoryName="Bash">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="INTERPRETER_PATH" value="C:\cygwin64\bin\bash.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="CompoundRunConfigurationType" factoryName="Compound Run Configuration">
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="GriffonRunConfigurationType" factoryName="Griffon">
+      <module name="" />
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="depsClasspath" value="true" />
+      <setting name="passParentEnv" value="true" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Pitch It Dude" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PitchIt" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PitchIt" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PitchIt" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PitchIt" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Application.Test" />
+      <item index="1" class="java.lang.String" itemvalue="Application.TLC" />
+      <item index="2" class="java.lang.String" itemvalue="Application.TableDemo" />
+      <item index="3" class="java.lang.String" itemvalue="Application.TableDialogEditDemo" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Launcher" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Application.Launcher" />
+        <item index="1" class="java.lang.String" itemvalue="Application.TableDialogEditDemo" />
+        <item index="2" class="java.lang.String" itemvalue="Application.TableDemo" />
+        <item index="3" class="java.lang.String" itemvalue="Application.TLC" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="StructureViewFactory">
+    <option name="AUTOSCROLL_FROM_SOURCE" value="true" />
+    <option name="ACTIVE_ACTIONS" value=",ALPHA_COMPARATOR" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d2dab505-5324-4f0c-ad52-7ce4b039d2ff" name="Default" comment="" />
+      <created>1493115560613</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1493115560613</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="112" y="4" width="1800" height="1017" extended-state="0" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3237858" sideWeight="0.49576783" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2809816" sideWeight="0.51862633" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27239263" sideWeight="0.47242206" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32853717" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32962963" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27239263" sideWeight="0.52757794" order="2" side_tool="false" content_ui="tabs" x="189" y="118" width="1707" height="991" />
+      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32429245" sideWeight="0.49758163" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30046403" sideWeight="0.48518518" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Problems" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29447854" sideWeight="0.48741007" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30220416" sideWeight="0.4842474" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2491269" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3027578" sideWeight="0.5148148" order="6" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="combo" />
+      <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="WINDOWED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" x="297" y="50" width="1579" height="939" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32945284" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.47239265" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27941176" sideWeight="0.47014052" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3288863" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="combo" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29582366" sideWeight="0.4842474" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2491269" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3247549" sideWeight="0.49576783" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28308824" sideWeight="0.51862633" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="WINDOWED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" x="297" y="50" width="1579" height="939" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32965687" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27450982" sideWeight="0.5298595" order="2" side_tool="false" content_ui="tabs" x="189" y="118" width="1707" height="991" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32945284" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32429245" sideWeight="0.49758163" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3074246" sideWeight="0.49529412" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Problems" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24754901" sideWeight="0.49004683" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4362745" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32806093" sideWeight="0.5157526" order="6" side_tool="true" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Performed Saturday 26 January" />
+    <option name="LAST_COMMIT_MESSAGE" value="Performed Saturday 26 January" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://C:/Program Files/Java/jdk1.8.0_101/src.zip!/javax/swing/JSpinner.java</url>
+          <line>176</line>
+          <properties />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="11" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/jetoff/learning/Reward.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/jetoff/learning/RLSystem.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/jetoff/learning/State.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/jetoff/learning/Action.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/jetoff/learning/Agent.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_101/src.zip!/javax/swing/JOptionPane.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="362" column="29" lean-forward="false" selection-start-line="362" selection-start-column="29" selection-end-line="362" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/util/stream/IntStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="72" column="41" lean-forward="false" selection-start-line="72" selection-start-column="41" selection-end-line="72" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/util/stream/BaseStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="499">
+          <caret line="116" column="6" lean-forward="false" selection-start-line="116" selection-start-column="6" selection-end-line="116" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/util/concurrent/Callable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="57" column="17" lean-forward="false" selection-start-line="57" selection-start-column="17" selection-end-line="57" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/util/concurrent/Future.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="150" column="6" lean-forward="false" selection-start-line="150" selection-start-column="6" selection-end-line="150" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/uiDesigner.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1869">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="57" column="20" lean-forward="true" selection-start-line="57" selection-start-column="20" selection-end-line="57" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/jetoff/web/ChatEncoder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/jetoff/web/MainFrame.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/jetoff/web/WebSoc.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="27" column="13" lean-forward="false" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/jetoff/web/BookingNotify.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/jetoff/web/Transcript.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/src/com/jetoff/gui/JeezGetFile.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/jetoff/gui/SplitPaneDemo.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/jetoff/logging/Config.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="23" column="5" lean-forward="true" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/jetoff/logging/Tracker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.classpath" />
+    <entry file="file://$PROJECT_DIR$/.project" />
+    <entry file="file://$PROJECT_DIR$/PitchIt.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Launcher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="14" column="24" lean-forward="false" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/jetoff/gui/jetlinks.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/jetoff/applets/tipTop.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/awt/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="108" column="13" lean-forward="false" selection-start-line="108" selection-start-column="13" selection-end-line="108" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/jetoff/logic/SudokuSolver.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/jetoff/logic/_Generator.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/awt/event/ActionEvent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="245" column="18" lean-forward="false" selection-start-line="245" selection-start-column="18" selection-end-line="245" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/jetoff/logic/Individual.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="1" lean-forward="false" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/jetoff/learning/Tree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" column="19" lean-forward="false" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/jetoff/gui/TreeFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1950">
+          <caret line="84" column="8" lean-forward="false" selection-start-line="84" selection-start-column="8" selection-end-line="84" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/jetoff/logic/PuzzleProvider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="725">
+          <caret line="91" column="19" lean-forward="false" selection-start-line="91" selection-start-column="19" selection-end-line="91" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/jetoff/gui/MainWindow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="16" column="13" lean-forward="false" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/jetoff/network/networkatom.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1300">
+          <caret line="52" column="6" lean-forward="false" selection-start-line="52" selection-start-column="6" selection-end-line="52" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/jetoff/tools/FileHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-275">
+          <caret line="11" column="24" lean-forward="false" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/jetoff/gui/Sudoku.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="101" column="16" lean-forward="false" selection-start-line="101" selection-start-column="16" selection-end-line="101" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_101/src.zip!/javax/swing/plaf/basic/BasicButtonListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="251" column="0" lean-forward="false" selection-start-line="251" selection-start-column="0" selection-end-line="251" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/jetoff/config/Parameters.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="15" column="19" lean-forward="false" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/jetoff/logic/SudokuGraph.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/jetoff/gui/JetSetter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="21" lean-forward="true" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="1460" column="0" lean-forward="false" selection-start-line="1460" selection-start-column="0" selection-end-line="1460" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/util/Collections.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="595" column="0" lean-forward="false" selection-start-line="595" selection-start-column="0" selection-end-line="595" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9775">
+          <caret line="428" column="0" lean-forward="false" selection-start-line="428" selection-start-column="0" selection-end-line="428" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/jetoff/gui/SudokuGUI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29925">
+          <caret line="1224" column="10" lean-forward="false" selection-start-line="1224" selection-start-column="10" selection-end-line="1224" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/jetoff/learning/_SearchTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="185" column="39" lean-forward="true" selection-start-line="185" selection-start-column="39" selection-end-line="185" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/jetoff/tools/smart.fxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="44" lean-forward="false" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="JavaFX-Scene-Builder">
+        <state />
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>javax.websocket:javax.websocket-api:1.1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>PitchIt</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
