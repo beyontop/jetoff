@@ -27,7 +27,7 @@ public class MainWindow extends JFrame //implements ActionListener, ItemListener
 	JMenu Menu_2     = new JMenu( "Get" );
 	JMenu Menu_3     = new JMenu( "About" );
 	
-	JMenuItem Menu_1_Item_1 = new JMenuItem( "FTP Transfer" );
+	JMenuItem Menu_1_Item_1 = new JMenuItem( "Register" );
 	JMenuItem Menu_1_Item_2 = new JMenuItem( "Chat" );
 	JMenuItem Menu_1_Item_3 = new JMenuItem( "Social Networking" );
 	JMenuItem Menu_1_Item_4 = new JMenuItem( "Close" );
@@ -45,7 +45,7 @@ public class MainWindow extends JFrame //implements ActionListener, ItemListener
 
 	public MainWindow() 
 	{
-		this.setTitle( "Jet Off & Groove On" );
+		this.setTitle( "Groovy" );
 		this.setJMenuBar( MenuBar );
 
 		this.Menu_1.add( Menu_1_Item_1 );
@@ -66,11 +66,13 @@ public class MainWindow extends JFrame //implements ActionListener, ItemListener
 		MakeTabInfo();
 
 		Menu_1_Item_1.addActionListener(
-			ActionEvent -> {
+
+				ActionEvent -> {
+				System.out.println(" All Right");
 				JPanel leftPanel  = MakeSectionPanel();
-				TreeFrame tree = new TreeFrame();
-				leftPanel.add( MakePanelForMe( tree, null ));
-				JScrollPane listView = new JScrollPane( tree );
+				//TreeFrame tree = new TreeFrame();
+				//leftPanel.add( MakePanelForMe( tree, null ));
+				//JScrollPane listView = new JScrollPane( tree );
 				JPanel rightPanel = MakeSectionPanel();
 				JSplitPane splitPane = new JSplitPane(JSplitPane.HORIZONTAL_SPLIT, leftPanel, rightPanel);
 				splitPane.setOneTouchExpandable(true);
@@ -86,11 +88,13 @@ public class MainWindow extends JFrame //implements ActionListener, ItemListener
 		});
 
 		Menu_1_Item_4.addActionListener(
+
 			ActionEvent -> {
 				System.exit(0);
 			});
 
 		Menu_2_Item_1.addActionListener(
+
 			ActionEvent -> {
 				if ( Menu_2_Item_1.isSelected() )
 				{
@@ -223,14 +227,14 @@ public class MainWindow extends JFrame //implements ActionListener, ItemListener
 		return "Today is: " + sdf.format( CurrentDay ).toString();
 	}
 	
-	private static void showUI()
+	public static void showUI()
 	{
 		AppWindow = new MainWindow();
 		container = AppWindow.getContentPane();
 		glasspane = AppWindow.getGlassPane();
 		container .add( StatusBar, BorderLayout.PAGE_END );
-		AppWindow .setBounds( 50, 50, 1500, 800 );
-		AppWindow .setDefaultCloseOperation( JFrame.EXIT_ON_CLOSE );
+		AppWindow .setBounds( 500, 500, 1000, 500 );
+		//AppWindow .setDefaultCloseOperation( JFrame.EXIT_ON_CLOSE );
 		AppWindow .setVisible( true );
 	}
 	

@@ -155,6 +155,7 @@ public class _SearchTree extends Thread
 			top.score = 1;
 			d.addText( "Score = "+top.score+", [" + top.cell.row +"," + top.cell.column +"] = " + top.cell.value );
 		}
+
 		while ( !SOLUTION_REACHED )
 		{
 			leaf = applyPolicy( top ); 						// Selection.

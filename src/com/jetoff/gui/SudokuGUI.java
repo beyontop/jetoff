@@ -1,6 +1,6 @@
 package com.jetoff.gui;
 
-import com.jetoff.learning._SearchTree;
+import com.jetoff.learning.Training;
 import com.jetoff.logging.Config;
 import com.jetoff.logic.PuzzleProvider;
 import com.jetoff.tools.Clock;
@@ -21,8 +21,7 @@ import java.util.Date;
  * This class is the entry point in the game: offers menus,
  * tuning and so forth.
  **********************************************************/
-public class SudokuGUI
-		extends JFrame
+public class SudokuGUI extends JFrame
 		implements ChangeListener, ListSelectionListener, ItemListener, ActionListener
 {
 	private Container container;
@@ -66,6 +65,7 @@ public class SudokuGUI
 	static final int START_GAME     = 12;
 	static final int USER_CANCELLED = 13;
 	static final int FILE_CHOOSER   = 14;
+	static final int CLOCK_PURPOSE  = 15;
 	static final int BACK_SIGNAL    = 1000;
 	static final int THICKNESS      = 1;
 	static final int CallNumber     = 0;
@@ -146,6 +146,7 @@ public class SudokuGUI
 		RegisterButton = new JButton( "Register" );
 		backBtnToLife  = new JButton( "Back To Life" );
 		dimButtons     = new Dimension(300, 30 );
+		//networkButton  = new JButton( "Load A Saved Game" );
 
 		setLevelButton .setPreferredSize( dimButtons );
 		playButton     .setPreferredSize( dimButtons );
@@ -154,6 +155,7 @@ public class SudokuGUI
 		aboutButton    .setPreferredSize( dimButtons );
 		RegisterButton .setPreferredSize( dimButtons );
 		backBtnToLife  .setPreferredSize( dimButtons );
+		//networkButton  .
 
 		mainPanel .add( setLevelButton );
 		mainPanel .add( playButton );
@@ -210,15 +212,15 @@ public class SudokuGUI
 				}
 		);
 
-		/*
-		networkButton.addActionListener(
+
+		RegisterButton.addActionListener(
 
 				ActionEvent -> {
-					socialNetwork( MENU_PRINCIPAL );
+					neTworKing( MENU_PRINCIPAL );
 					setBottomMenu( MENU_NETWORK );
 				}
 		);
-		*/
+
 		aboutButton.addActionListener(
 
 				ActionEvent -> aboutSudoku()
@@ -367,7 +369,7 @@ public class SudokuGUI
 				ActionEvent -> {
 					setButtonsState( START_GAME );
 					setHeader( MENU_PLAY );
-					//gameInProcess.setVisible( true );
+					zzTop();
 					isPlayingUser = true;
 					this.repaint();
 				}
@@ -763,6 +765,12 @@ public class SudokuGUI
 				//w.setType( Type.UTILITY );
 				//w.setVisible( true );
 				break;
+			case CLOCK_PURPOSE :
+				w.setSize(600, 60);
+				w.setResizable( false );
+				//w.setLocation(400, 50 );
+				//w.setLocation( this.getAlignmentX(), this.getAlignmentY() + 405 );
+				break;
 			default:
 				w.setSize(350, 400 );
 				w.setResizable( true );
@@ -899,7 +907,7 @@ public class SudokuGUI
 		gameInProcess . add( new Clock() );
 		gameInProcess . add( backBtn );
 		gameInProcess . add( forwardBtn );
-		gameInProcess . setVisible( false );
+		//gameInProcess . setVisible( false );
 		//shapePanel    . add( gameInProcess );
 	}
 	/**********************************
@@ -1122,7 +1130,7 @@ public class SudokuGUI
 		}
 	}
 
-	boolean socialNetwork( int MENU_ITEM )
+	boolean neTworKing( int MENU_ITEM )
 	{
 		switch( MENU_ITEM )
 		{
@@ -1136,7 +1144,9 @@ public class SudokuGUI
 				;
 		}
 		setBottomMenu( MENU_NETWORK );
+
 		this.repaint();
+		MainWindow.showUI();// w = new MainWindow();
 		return PROCESS_OK;
 	}
 
@@ -1209,7 +1219,7 @@ public class SudokuGUI
 	void Solve()
 	{
 		if( grid.cluesCount < 17 ) return;
-		_SearchTree ts = new _SearchTree( grid.cluesCount );
+		Training ts = new Training( grid.cluesCount );
 		ts.setColumns( grid.getColums() );
 		ts.setRows( grid.getRows() );
 		ts.setRegions( grid.getRegions() );
@@ -1223,6 +1233,20 @@ public class SudokuGUI
 		trialView.add( gridView );
 		trialView.setVisible(true);
 		*/
+	}
+
+	void zzTop()
+	{
+		JFrame w;
+		JTextArea textToDisplay;
+		JScrollPane resultsPane;
+		w = SudokuGUI.getWindow( CLOCK_PURPOSE, "" );
+		//w.setLocation( 700, 300 );
+		float x = this.getAlignmentX();
+		float y = this.getAlignmentY() + 405;
+		w.add( gameInProcess );
+		w.setLocation( (int) x, (int) y );
+		w.setVisible( true );
 	}
 
 	void getIdForm()

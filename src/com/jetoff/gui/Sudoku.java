@@ -13,8 +13,9 @@ import java.util.Observer;
  * A "Sudoku" is a "JPanel" which contains 9 "JTable"(!) - see
  * "Block" inner class to figure out why. Those tables both are
  * the blocks (or regions) and shape the grid of the Sudoku.
- * They are in charge of the rendering, editing, deleting of
- * their own cells, and of the hosted numbers logic.
+ * They are in charge of the rendering, editing (objects GridRenderer
+ * and GidEditor), and deleting of their own cells, and of the hosted
+ * numbers logic (BlockModel, Block).
  **************************************************************/
 public class Sudoku extends JPanel implements Observer
 {
@@ -175,7 +176,7 @@ public class Sudoku extends JPanel implements Observer
 	/**
 	 *  Fills the columns, rows and regions of the grid,
 	 *  until one value cannot be added, then signals
-	 *  failure, success otherwise.
+	 *  failure (returns false), success otherwise (returns true).
 	 */
 	private boolean fillHashSets()
 	{
@@ -256,7 +257,7 @@ public class Sudoku extends JPanel implements Observer
 		int SelectedRow, SelectedColumn;
 		TableColumn column;
 		/**
-		* A Block "region" must not contain the same number twice, hence we use
+		* A Block, or "region", must not contain the same number twice, hence we use
 		* a HashSet Collection, which doesn't allow duplicated items.
 		**/
 		public HashSet<Integer> region = new HashSet<>( 9 );
